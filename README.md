@@ -128,3 +128,33 @@ The site is three static files; anyone with the URL can open it.
 - `sources[]` — label, url, role.
 
 Duplicates: the monitors key on `listing_url`; a second row with the same URL but a different `variant` is left in place and should be reviewed, never auto-merged.
+
+## 5. Featured this week + Bookmarks (added Sep 16, 2026)
+
+### Featured this week
+The overview now opens with two cards derived from `data.json` on every page load — nothing is hard-coded, so the 30-minute scan is what refreshes them.
+
+| Card | Candidate rows | Rule |
+|---|---|---|
+| Latest by Skottie Young | every `series_id: "sy"` row (Impulse, Midtown, skottieyoung.com) | most recent `release_date` ≤ today; if no row has a date, most recent `published_at` |
+| Newest Absolute Batman issue | `series_id: "abat"` rows with a numeric `issue` and `variant_type` not `reprint`/`signed`/`collected`, not one-shots | highest issue number whose `release_date` ≤ today; falls back to the highest issue number if no dates exist |
+
+Ties (several covers of the same book) resolve toward a row with cover art, then a buyable row, then Impulse. The card shows the retailer's own cover image, title, issue, publisher, creators, release date, live status, lowest buyable price across that book's covers, a "View comic" link to the listing, and a bookmark button. If no candidate exists, or the listing has no art, a neutral placeholder card with the same metadata is shown instead of a broken image. Image space is reserved (2:3) so the page doesn't jump while covers load.
+
+A supporting row lists the next dated release for each watch (Midnight Spider-Man from the publisher schedule in `series[0].issues`; Absolute Batman and Skottie Young from listing `release_date`).
+
+### Bookmarks
+There is no sign-in on this static site, so bookmarks are stored in the browser's `localStorage` under `knightwatch.bookmarks.v1` and the UI says so ("Saved on this device"). Each entry is keyed `series_id:listing_id` (a handful of ids repeat across series in `data.json`) and keeps a small snapshot — title, variant, publisher, creator, retailer, link, image, release date, saved time — so it still renders if the listing later drops out of the tracker (shown greyed, "No longer listed"). Price, status and link are re-read from live data on every load. Duplicates are impossible by construction (object keyed by id). If storage is blocked (private mode), the button still works for the visit and a notice on the Bookmarks page explains why nothing will persist.
+
+Bookmark buttons appear on the hero cover, the featured cards, cover-matrix cards, Skottie Young cards, Absolute Batman table rows, and the supporting "next up" row. Buttons are real `<button>`s with `aria-pressed` and labels that flip between "Bookmark comic" and "Remove bookmark"; a toast confirms each save/remove with an Undo. The **Bookmarks** page is in the left nav (URL `#bookmarks`) with a count badge, newest-first grid, per-card remove, remove-all with undo, and the empty state.
+
+No monitor, workflow, or `data.json` change was needed.
+
+### Test checklist
+- Overview: two featured cards show DNX #1 (Skottie Young, Sep 16) and Absolute Batman #23 (Aug 12) with art; three "next up" mini cards below.
+- Bookmark from a featured card → toast, red filled icon, nav badge "1". Click again → removed, badge clears. Undo restores.
+- Bookmark the same book from the cover matrix and from Bookmarks page → still one entry.
+- Reload → badge and Bookmarks page persist. Clear site data → empty state.
+- Bookmarks page: "View comic" opens the listing; Remove and Remove all work; empty-state copy matches spec.
+- Keyboard: Tab to a bookmark button, Enter/Space toggles; focus ring visible.
+- Phone width: featured cards stack; cover 110px beside text; mini cards stack; pill wraps.

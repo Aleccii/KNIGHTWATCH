@@ -175,6 +175,64 @@
   .cc .ed{font-size:12px;color:var(--muted);margin-top:8px;line-height:1.45}.cc .ed .y{color:var(--ok)}.cc .ed .n{color:var(--dim);text-decoration:line-through}
   .drops>div{display:grid;grid-template-columns:44px 1fr auto;gap:12px;align-items:center;padding:10px 0;border-bottom:1px solid var(--line)}.drops img{width:44px;height:66px;object-fit:cover;background:var(--panel)}.drops .t{font-weight:600;font-size:14px}.drops .m{color:var(--muted);font-size:12.5px}.drops .s{font-size:12.5px;font-weight:600;color:var(--red);white-space:nowrap}.drops .s.ok{color:var(--ok)}
   .notice{display:none;background:rgba(240,137,75,.1);border:1px solid rgba(240,137,75,.35);border-radius:6px;padding:10px 14px;font-size:14px;margin-bottom:20px}
+
+  /* ---------- Featured this week ---------- */
+  .feat{margin:8px 0 40px}
+  .feat .pghead{margin-bottom:18px}
+  .feat2{display:grid;grid-template-columns:1fr 1fr;gap:20px}
+  .fc{display:grid;grid-template-columns:180px 1fr;gap:0;border:1px solid var(--line);border-radius:6px;background:var(--bg2);overflow:hidden;position:relative}
+  .fc .im{aspect-ratio:2/3;background:var(--panel);position:relative}
+  .fc .im img{width:100%;height:100%;object-fit:cover;display:block}
+  .fc .im .noimg,.fc .im .ph{position:absolute;inset:0;width:auto;aspect-ratio:auto;display:grid;place-items:center;text-align:center;color:var(--dim);font-size:13px;padding:18px;border:0;background:repeating-linear-gradient(135deg,var(--panel) 0 14px,#1e1e22 14px 28px)}
+  .fc .im .ph b{display:block;font-family:var(--display);font-weight:400;font-size:26px;color:var(--muted);letter-spacing:.02em;margin-bottom:4px}
+  .fc .bd{padding:22px 24px;display:flex;flex-direction:column;min-width:0}
+  .fc .why{font-size:12.5px;font-weight:600;color:var(--red);margin-bottom:8px}
+  .fc h3{font-family:var(--display);font-weight:400;font-size:30px;line-height:1.02;margin:0 0 4px;letter-spacing:.005em;word-wrap:break-word}
+  .fc h3 sup{font-size:.5em;color:var(--red);margin-left:6px;vertical-align:.6em}
+  .fc .var{color:var(--muted);font-size:14px;margin-bottom:14px}
+  .fc dl{display:grid;grid-template-columns:auto 1fr;gap:5px 14px;margin:0 0 16px;font-size:14px}
+  .fc dt{color:var(--dim)}.fc dd{margin:0;font-weight:500;min-width:0;overflow-wrap:anywhere}
+  .fc .row{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-top:auto}
+  .fc .row .btn{padding:10px 16px;font-size:14px}
+  .fc .row .s{font-size:13px;font-weight:600;color:var(--red)}.fc .row .s.ok{color:var(--ok)}.fc .row .s.warn{color:var(--warn)}.fc .row .s.demo{color:var(--demo)}
+  .fc .ver{font-size:11.5px;color:var(--dim);margin-top:12px}
+  .featsub{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-top:14px}
+  .featsub>div{display:grid;grid-template-columns:48px 1fr auto;gap:12px;align-items:center;border:1px solid var(--line);border-radius:6px;padding:10px 12px;background:var(--bg2)}
+  .featsub .th{width:48px;height:72px;background:var(--panel);overflow:hidden;border-radius:2px}.featsub .th img{width:100%;height:100%;object-fit:cover;display:block}.featsub .th .noimg{width:100%;height:100%;border:0;font-size:0}
+  .featsub .why{font-size:11.5px;color:var(--red);font-weight:600}.featsub .t{font-weight:600;font-size:14px;line-height:1.3}.featsub .m{color:var(--muted);font-size:12.5px}
+  @media (max-width:1100px){.feat2{grid-template-columns:1fr}.featsub{grid-template-columns:1fr}}
+  @media (max-width:600px){.feat .pill{white-space:normal;text-align:right;font-size:11.5px}.fc{grid-template-columns:110px 1fr}.fc .bd{padding:14px 16px}.fc h3{font-size:24px}.fc dl{font-size:13px;gap:3px 10px}.fc .var{margin-bottom:10px}.fc .ver{display:none}}
+
+  /* ---------- Bookmarks ---------- */
+  .bm{width:34px;height:34px;border-radius:6px;border:1px solid var(--line2);background:rgba(15,15,17,.85);display:inline-grid;place-items:center;padding:0;color:var(--muted);flex:none}
+  .bm svg{width:16px;height:16px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linejoin:round}
+  .bm:hover{color:var(--text);border-color:var(--muted)}
+  .bm[aria-pressed="true"]{color:var(--red);border-color:var(--red);background:rgba(228,88,95,.14)}
+  .bm[aria-pressed="true"] svg{fill:currentColor}
+  .bm.pop{animation:bmpop .22s ease-out}
+  @keyframes bmpop{40%{transform:scale(1.18)}}
+  @media (prefers-reduced-motion:reduce){.bm.pop{animation:none}}
+  .cc .bm{position:absolute;top:10px;right:10px;z-index:2}
+  .cc .rt~.bm,.cc .bm.under{top:44px}
+  .fc .im .bm{position:absolute;top:10px;left:10px;z-index:2}
+  .cover .bm{position:absolute;top:10px;left:10px;z-index:2}
+  td .bm{width:30px;height:30px}td .bm svg{width:14px;height:14px}
+  #nav .cnt{display:inline-block;min-width:18px;text-align:center;font-size:11px;font-weight:700;color:var(--red);background:rgba(228,88,95,.14);border-radius:9px;padding:1px 6px;margin-left:8px;vertical-align:1px}
+  #nav .cnt:empty{display:none}
+  .toast{position:fixed;left:50%;bottom:28px;transform:translate(-50%,10px);background:var(--cream);color:var(--cream-ink);font-weight:600;font-size:14px;padding:11px 16px;border-radius:6px;box-shadow:0 10px 30px rgba(0,0,0,.5);opacity:0;pointer-events:none;transition:opacity .18s,transform .18s;z-index:50;max-width:calc(100vw - 32px)}
+  .toast.on{opacity:1;transform:translate(-50%,0)}
+  .toast button{margin-left:14px;background:none;border:0;padding:0;font-weight:600;text-decoration:underline;text-underline-offset:3px;color:var(--cream-ink);pointer-events:auto}
+  .bmgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:16px}
+  .bmgrid .cc .bd{display:flex;flex-direction:column}
+  .bmgrid .cc .acts{display:flex;gap:8px;align-items:center;margin-top:12px}
+  .bmgrid .cc .acts .btn{padding:8px 12px;font-size:13px}
+  .bmgrid .cc .acts .rm{background:none;border:1px solid var(--line2);border-radius:6px;padding:7px 11px;font-size:13px;color:var(--muted)}.bmgrid .cc .acts .rm:hover{color:var(--red);border-color:var(--red)}
+  .bmgrid .cc.gone .im{filter:grayscale(1) opacity(.5)}
+  .empty{border:1px dashed var(--line2);border-radius:6px;padding:48px 28px;text-align:center;color:var(--muted);max-width:60ch;margin:0 auto}
+  .empty h3{font-family:var(--display);font-weight:400;font-size:30px;margin:0 0 10px;color:var(--text)}
+  .empty .btn{margin-top:18px}
+  .bmbar{display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin-bottom:18px;color:var(--muted);font-size:14px}
+  .bmbar .rm{margin-left:auto;background:none;border:1px solid var(--line2);border-radius:6px;padding:8px 12px;font-size:13px;color:var(--muted)}.bmbar .rm:hover{color:var(--red);border-color:var(--red)}
 </style>
 </head>
 <body>
@@ -191,6 +249,7 @@
       <button type="button" data-v="tour">2026 tour</button>
       <button type="button" data-v="batman">Absolute Batman</button>
       <button type="button" data-v="skottie">Skottie Young</button>
+      <button type="button" data-v="bookmarks">Bookmarks<span class="cnt" id="bmCount"></span></button>
       <button type="button" data-v="sources">Sources</button>
     </nav>
     <div class="foot" id="side1"></div><div class="foot" id="side2" style="margin-top:0;border-top:0;padding-top:12px"></div>
@@ -210,6 +269,11 @@
         </div>
         <div class="cover" id="heroCover"></div>
       </div>
+      <section class="feat" aria-labelledby="featH">
+        <div class="pghead"><h2 class="pg" id="featH">Featured this week</h2><span class="pill m" id="featPill"></span></div>
+        <div class="feat2" id="feat2"></div>
+        <div class="featsub" id="featSub"></div>
+      </section>
       <div class="stats" id="stats"></div>
       <div class="mon"><div class="dot"></div><div><b>Regional appearance monitor active</b><span>Daily checks for newly announced Oklahoma or Kansas events. Alerts only fire on a new match.</span></div><span class="pill g">Daily</span></div>
       <div class="mon"><div class="dot"></div><div><b>Metro availability scan active</b><span id="monText"></span></div><span class="pill g" id="cd" style="min-width:150px;text-align:center;font-variant-numeric:tabular-nums">Next scan —</span></div>
@@ -296,6 +360,15 @@
       <p class="fine">Scope: every Impulse and Midtown listing whose title credits Skottie Young on the cover, and the comics, artist exclusives, CGC Signature Series slabs and signed warehouse-sale books on his own store. Books he wrote with other cover artists, original art, prints, stickers and auctions are out of scope. Impulse's catalog API returns at most 100 pages per collection, so a back issue that sits only in the store's unnamed catalog can be missed; anything on preorder or in a publisher collection is covered.</p>
     </div>
 
+    <div class="view" id="v-bookmarks">
+      <div class="eyebrow">Saved on this device</div>
+      <div class="pghead"><h2 class="pg">Bookmarks</h2><span class="pill m" id="bmPill"></span></div>
+      <div class="notice" id="bmNotice"></div>
+      <div class="bmbar" id="bmBar"></div>
+      <div class="bmgrid" id="bmGrid"></div>
+      <p class="fine">Bookmarks live in this browser's local storage only: they stay on this device, do not sync, and vanish if you clear site data. Status, price and links refresh from the tracker's live data every time the page loads; a book that leaves the tracker keeps its saved details and is marked no longer listed.</p>
+    </div>
+
     <div class="view" id="v-sources">
       <div class="eyebrow">Audit trail</div>
       <div class="pghead"><h2 class="pg">Primary sources</h2></div>
@@ -339,6 +412,41 @@
   const CUR=openIssues[0]||ISSUES[ISSUES.length-1]||'1', curL=ofIssue(CUR), curMeta=metaOf(CUR), curPre=curL.filter(isBuy).length;
   const prevIssues=ISSUES.filter(i=>numI(i)<numI(CUR));
   const now=new Date(), weekAgo=new Date(now-7*864e5), isNew=i=>i&&new Date(i)>weekAgo;
+
+  /* ---------- Bookmarks (device-local) ----------
+     No sign-in exists on this static site, so bookmarks persist in localStorage and the UI says so.
+     Key = series_id + ":" + listing id (a few ids repeat across series in data.json). Each saved
+     entry keeps a small snapshot so it still renders if the listing leaves the tracker. */
+  const BM_KEY='knightwatch.bookmarks.v1';
+  const keyOf=l=>l.series_id+':'+l.id;
+  const BYKEY={}; for(const l of ALL){const k=keyOf(l); if(!(k in BYKEY))BYKEY[k]=l;}
+  const seriesName=l=>l.series_id==='sy'?'Skottie Young watch':((D.series.find(x=>x.id===l.series_id)||{}).name||'');
+  const creatorOf=l=>{if(l.series_id==='sy')return l.artist||'Skottie Young';const sr=D.series.find(x=>x.id===l.series_id)||{};return [sr.writer,sr.artist||l.artist].filter(Boolean).join(' · ');};
+  const publisherOf=l=>l.publisher||(D.series.find(x=>x.id===l.series_id)||{}).publisher||'';
+  const retailerOf=l=>(ret[l.retailer_id]||{}).name||l.retailer_name||'';
+  let storageOk=true;
+  const bmRead=()=>{try{const v=localStorage.getItem(BM_KEY);return v?JSON.parse(v):{};}catch(e){storageOk=false;return {};}};
+  let BM=bmRead();
+  const bmWrite=()=>{try{localStorage.setItem(BM_KEY,JSON.stringify(BM));storageOk=true;}catch(e){storageOk=false;}};
+  const isBm=k=>!!BM[k];
+  const BM_ICON='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3h12v18l-6-4.5L6 21z"/></svg>';
+  const bmBtn=(l,extra)=>{const k=keyOf(l),on=isBm(k);return `<button type="button" class="bm ${extra||''}" data-bm="${esc(k)}" aria-pressed="${on}" aria-label="${on?'Remove bookmark':'Bookmark comic'}: ${esc(l.title+' '+(l.variant||''))}" title="${on?'Remove bookmark':'Bookmark comic'}">${BM_ICON}</button>`;};
+  const snap=l=>({title:l.title,variant:l.variant||'',series_id:l.series_id,series:seriesName(l),publisher:publisherOf(l),creator:creatorOf(l),retailer:retailerOf(l),url:l.listing_url,image:l.image_local||l.image_url||null,release_date:l.release_date||null,issue:l.issue||null,saved_at:new Date().toISOString()});
+  const bmSet=(k,on)=>{if(on){if(BM[k])return;const l=BYKEY[k];if(!l)return;BM[k]=snap(l);}else{if(!BM[k])return;delete BM[k];}bmWrite();bmSync();};
+  function bmSync(){
+    const n=Object.keys(BM).length;
+    $('#bmCount').textContent=n?String(n):'';
+    document.querySelectorAll('[data-bm]').forEach(b=>{const on=isBm(b.dataset.bm);b.setAttribute('aria-pressed',on);const lbl=(on?'Remove bookmark':'Bookmark comic');b.title=lbl;b.setAttribute('aria-label',lbl+b.getAttribute('aria-label').slice(b.getAttribute('aria-label').indexOf(':')));});
+    if(typeof bmGrid==='function')bmGrid();
+  }
+  let toastT; const toastEl=Object.assign(document.createElement('div'),{className:'toast',role:'status','ariaLive':'polite'}); document.body.appendChild(toastEl);
+  function toast(msg,undo){clearTimeout(toastT);toastEl.innerHTML=esc(msg)+(undo?'<button type="button" id="toastUndo">Undo</button>':'');if(undo)$('#toastUndo').onclick=()=>{undo();toastEl.classList.remove('on');};toastEl.classList.add('on');toastT=setTimeout(()=>toastEl.classList.remove('on'),3200);}
+  document.addEventListener('click',e=>{const b=e.target.closest('[data-bm]');if(!b)return;e.preventDefault();const k=b.dataset.bm,on=!isBm(k);
+    if(on&&!BYKEY[k])return;
+    bmSet(k,on);b.classList.remove('pop');void b.offsetWidth;b.classList.add('pop');
+    if(!storageOk){toast('Bookmark kept for this visit only — this browser is blocking site storage.');return;}
+    const t=(BM[k]||{}).title||(BYKEY[k]||{}).title||'Comic';
+    toast(on?`Saved ${t} to bookmarks`:`Removed ${t} from bookmarks`,()=>bmSet(k,!on));});
   $('#snap').textContent='Snapshot · '+new Date(D.meta.generated_at).toLocaleDateString('en-US',{timeZone:TZ,month:'short',day:'numeric',year:'numeric'});
   $('#updated').textContent=fDT(D.meta.generated_at);
 
@@ -359,7 +467,7 @@
   $('#side2').innerHTML='';
   $('#heroEvent').textContent=tulsa?`Tulsa signing · ${fMD(tulsa.date)} ↗`:'No Tulsa signing listed';
   const heroL=curL.find(l=>l.image_local||l.image_url)||impulse.find(l=>l.image_local||l.image_url);
-  $('#heroCover').innerHTML=heroL?`${IMG(heroL)}<div class="cap">Issue #${heroL.issue} · Cover ${heroL.cover_letter}${heroL.artist?' · '+esc(heroL.artist):''}</div>`:'<div class="noimg">No retailer image captured yet</div>';
+  $('#heroCover').innerHTML=heroL?`${bmBtn(heroL)}${IMG(heroL)}<div class="cap">Issue #${heroL.issue} · Cover ${heroL.cover_letter}${heroL.artist?' · '+esc(heroL.artist):''}</div>`:'<div class="noimg">No retailer image captured yet</div>';
   const cities=new Set(METRO.map(r=>r.city));
   $('#stats').innerHTML=`<div><div class="l">Metro retailers</div><div class="n">${METRO.length}</div><div class="s">${cities.size} cities</div></div><div><div class="l">Buyable comics</div><div class="n">${buyable}</div><div class="s">as of ${fMD(D.meta.generated_at.slice(0,10))}</div></div><div><div class="l">Cover designs</div><div class="n">${impulse.length}</div><div class="s">${ISSUES.map(i=>'#'+i+' A–'+(ofIssue(i).map(l=>l.cover_letter).filter(Boolean).sort().pop()||'?')).join(' · ')}</div></div><div><div class="l">Local appearance</div><div class="n">${APPS.filter(a=>a.in_region&&a.status==='confirmed').length}</div><div class="s">${tulsa?tulsa.city+' · '+fMD(tulsa.date):'None'}</div></div>`;
   const autoN=METRO.filter(r=>r.auto_check).length;
@@ -391,7 +499,7 @@
     $('#grid').innerHTML=rows.map(l=>{
       const sg=signedOf[l.issue+l.cover_letter]; const show=signed&&sg?sg:l;
       const price=signed?(sg?$$(sg.price_usd)+' signed':'— no signed listing'):($$(l.price_usd)+(l.list_price_usd&&l.list_price_usd>l.price_usd?` <s style="color:var(--dim)">${$$(l.list_price_usd)}</s>`:''));
-      return `<div class="cc">${l.cover_letter?`<div class="let">${l.cover_letter}</div>`:''}<div class="im">${(l.image_url||l.image_local)?IMG(l):'No artwork on the retailer listing yet — saved automatically once Impulse uploads it'}</div>
+      return `<div class="cc">${l.cover_letter?`<div class="let">${l.cover_letter}</div>`:''}${bmBtn(show)}<div class="im">${(l.image_url||l.image_local)?IMG(l):'No artwork on the retailer listing yet — saved automatically once Impulse uploads it'}</div>
       <div class="bd"><div class="nm">${esc(l.cover_name||l.variant)}</div><div class="ar">${esc(l.artist||'Artist not named on listing')}${l.cover_kind?' · '+esc(l.cover_kind):''}${signed&&sg?' · signed by PKJ':''}</div>
       <div class="pr"><span>${price}</span><span class="s ${stClass(show.status)}">${STAT[show.status]}</span></div>
       <a class="lk" href="${esc(show.listing_url)}" target="_blank" rel="noopener">${signed&&sg?'Signed edition page':'Product page'} ↗</a>
@@ -425,7 +533,7 @@
     if(bq){const q=bq.toLowerCase();rows=rows.filter(l=>(l.title+' '+l.variant+' '+(l.retailer_title||'')).toLowerCase().includes(q));}
     rows=[...rows].sort((a,b)=>{const s=(isBuy(b)?1:0)-(isBuy(a)?1:0);if(s)return s;const d=issueNum(b)-issueNum(a);if(d)return d;return (a.title+a.variant).localeCompare(b.title+b.variant);});
     $('#batCount').textContent=`${rows.length} of ${abat.length} listings · ${abBuy.length} buyable · ${abat.filter(l=>l.status==='sold_out').length} sold out · all at Impulse Creations, Tulsa`;
-    $('#batRows').innerHTML=rows.map(l=>`<tr class="${isBuy(l)?'hi':''}"><td><b>${esc(l.title)}</b>${l.upc?`<div class="sub">UPC ${esc(l.upc)}</div>`:''}</td><td>${esc(l.variant)}${l.foc_date&&isBuy(l)?`<div class="sub">FOC ${fMD(l.foc_date)}</div>`:''}</td><td>${esc(ret[l.retailer_id]?.name||l.retailer_name)}</td><td>${$$(l.price_usd)}${l.list_price_usd&&l.list_price_usd>l.price_usd?`<div class="sub"><s>${$$(l.list_price_usd)}</s></div>`:''}</td><td><span class="st ${l.status}">${STAT[l.status]}</span></td><td>${fD(l.release_date)}</td><td>${fDT(l.last_verified)}<span class="tag ${l.verification}">${l.verification}</span></td><td><a href="${esc(l.listing_url)}" target="_blank" rel="noopener">Listing ↗</a></td></tr>`).join('')||'<tr><td colspan="8" style="color:var(--muted)">Nothing matches.</td></tr>';
+    $('#batRows').innerHTML=rows.map(l=>`<tr class="${isBuy(l)?'hi':''}"><td><b>${esc(l.title)}</b>${l.upc?`<div class="sub">UPC ${esc(l.upc)}</div>`:''}</td><td>${esc(l.variant)}${l.foc_date&&isBuy(l)?`<div class="sub">FOC ${fMD(l.foc_date)}</div>`:''}</td><td>${esc(ret[l.retailer_id]?.name||l.retailer_name)}</td><td>${$$(l.price_usd)}${l.list_price_usd&&l.list_price_usd>l.price_usd?`<div class="sub"><s>${$$(l.list_price_usd)}</s></div>`:''}</td><td><span class="st ${l.status}">${STAT[l.status]}</span></td><td>${fD(l.release_date)}</td><td>${fDT(l.last_verified)}<span class="tag ${l.verification}">${l.verification}</span></td><td style="white-space:nowrap">${bmBtn(l)} <a href="${esc(l.listing_url)}" target="_blank" rel="noopener">Listing ↗</a></td></tr>`).join('')||'<tr><td colspan="8" style="color:var(--muted)">Nothing matches.</td></tr>';
   }
   $('#batSeg').addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;$('#batSeg').querySelectorAll('button').forEach(x=>x.classList.toggle('on',x===b));bk=b.dataset.k;batGrid();});
   $('#batIssue').addEventListener('change',e=>{bi=e.target.value;batGrid();});
@@ -456,7 +564,7 @@
     $('#syCount').textContent=`${rows.length} of ${SY.length} listings · ${syBuy.length} buyable · ${SY.filter(l=>l.status==='sold_out').length} sold out · ${SY.filter(l=>l.status==='needs_verification'||l.status==='unknown').length} awaiting a clean check`;
     $('#syGrid').innerHTML=rows.map(l=>{const r=ret[l.retailer_id];const price=$$(l.price_usd)+(l.list_price_usd&&l.list_price_usd>l.price_usd?` <s style="color:var(--dim)">${$$(l.list_price_usd)}</s>`:'');
       const eds=l.editions?`<div class="ed">${l.editions.map(e=>`<span class="${e.available?'y':'n'}">${esc(e.edition.replace(/\s*\$[\d.,]+.*$/,''))} ${$$(e.price_usd)}</span>`).join(' · ')}</div>`:'';
-      return `<div class="cc">${l.cover_letter?`<div class="let">${esc(l.cover_letter)}</div>`:''}<div class="rt">${RT[l.retailer_id]||esc(r.name)}</div><div class="im">${(l.image_url||l.image_local)?IMG(l):'No artwork on the retailer listing yet'}</div>
+      return `<div class="cc">${l.cover_letter?`<div class="let">${esc(l.cover_letter)}</div>`:''}<div class="rt">${RT[l.retailer_id]||esc(r.name)}</div>${bmBtn(l,'under')}<div class="im">${(l.image_url||l.image_local)?IMG(l):'No artwork on the retailer listing yet'}</div>
       <div class="bd"><div class="nm">${esc(l.title)}${syNew(l)?'<span class="new">NEW</span>':''}</div><div class="ar">${esc(l.variant)}${l.publisher?' · '+esc(l.publisher):''}${l.release_date?' · '+(l.release_date>=today?'due ':'released ')+fMD(l.release_date):''}${l.foc_date&&l.foc_date>=today?' · FOC '+fMD(l.foc_date):''}</div>
       <div class="pr"><span>${price}</span><span class="s ${stClass(l.status)}">${STAT[l.status]}</span></div>${eds}
       <a class="lk" href="${esc(l.listing_url)}" target="_blank" rel="noopener">${esc(r.name.split(' (')[0])} listing ↗</a>
@@ -466,6 +574,66 @@
   $('#sySeg').addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;$('#sySeg').querySelectorAll('button').forEach(x=>x.classList.toggle('on',x===b));sk=b.dataset.k;syGrid();});
   $('#syQ').addEventListener('input',e=>{sq=e.target.value;syGrid();});
   syGrid();
+
+  /* ---------- Featured this week ----------
+     Source of truth: listing.release_date (retailer-stated) and series[].issues (publisher schedule).
+     "Latest" = the most recent release_date on or before today. Ties break toward a row that has
+     cover art, then one that is buyable, then the Tulsa retailer. Nothing here is hard-coded: the
+     section re-derives itself from data.json every load, so the hourly scan is what refreshes it. */
+  const TODAY=new Date().toISOString().slice(0,10);
+  const hasImg=l=>!!(l.image_local||l.image_url);
+  const rank=(a,b)=>((hasImg(b)?1:0)-(hasImg(a)?1:0))||((isBuy(b)?1:0)-(isBuy(a)?1:0))||((b.retailer_id==='impulse'?1:0)-(a.retailer_id==='impulse'?1:0));
+  const pickLatest=rows=>{const dated=rows.filter(l=>l.release_date&&l.release_date<=TODAY);if(dated.length){const top=dated.reduce((m,l)=>l.release_date>m?l.release_date:m,'');return {row:[...dated.filter(l=>l.release_date===top)].sort(rank)[0],basis:'release date'};}
+    const pub=rows.filter(l=>l.published_at);if(pub.length){const top=pub.reduce((m,l)=>l.published_at>m?l.published_at:m,'');return {row:[...pub.filter(l=>l.published_at===top)].sort(rank)[0],basis:'listing date'};}return {row:null,basis:null};};
+  const pickNext=rows=>{const f=rows.filter(l=>l.release_date&&l.release_date>TODAY);if(!f.length)return null;const top=f.reduce((m,l)=>l.release_date<m?l.release_date:m,'9');return [...f.filter(l=>l.release_date===top)].sort(rank)[0];};
+  /* Skottie Young: any watch row credited to him (cover, exclusive, or his own store). */
+  const syLatest=pickLatest(SY.filter(l=>l.role!=='store'||l.release_date));
+  /* Absolute Batman: numbered first-print issues only; the newest issue number that has shipped. */
+  const abFirst=abat.filter(l=>l.issue&&/^\d+$/.test(l.issue)&&!['reprint','signed','collected'].includes(l.variant_type)&&l.format!=='one-shot');
+  const abShipped=abFirst.filter(l=>l.release_date&&l.release_date<=TODAY);
+  let abLatest={row:null,basis:null};
+  if(abShipped.length){const top=Math.max(...abShipped.map(issueNum));abLatest={row:[...abShipped.filter(l=>issueNum(l)===top)].sort((a,b)=>((a.cover_letter||'Z')<(b.cover_letter||'Z')?-1:1)||rank(a,b))[0],basis:'release date'};}
+  else if(abFirst.length){const top=Math.max(...abFirst.map(issueNum));abLatest={row:[...abFirst.filter(l=>issueNum(l)===top)].sort(rank)[0],basis:'highest issue number (no release dates recorded)'};}
+  const sibs=l=>ALL.filter(x=>x.series_id===l.series_id&&x.title===l.title);
+  const featCard=(why,pick,fallbackTitle,fallbackNote)=>{
+    const l=pick.row;
+    if(!l)return `<article class="fc"><div class="im"><div class="ph"><b>${esc(fallbackTitle)}</b>No release found yet</div></div><div class="bd"><div class="why">${esc(why)}</div><h3>${esc(fallbackTitle)}</h3><p class="var">${esc(fallbackNote)}</p></div></article>`;
+    const sib=sibs(l), buy=sib.filter(isBuy).length, price=sib.filter(isBuy).map(x=>x.price_usd).filter(v=>v!=null), lo=price.length?Math.min(...price):null;
+    const title=l.title.replace(/\s*#\d+\s*$/,''), num=(l.title.match(/#(\d+)/)||[])[1]||l.issue;
+    const creator=creatorOf(l), pub=publisherOf(l);
+    return `<article class="fc"><div class="im">${bmBtn(l)}${hasImg(l)?IMG(l):`<div class="ph"><b>${esc(title)}</b>Cover art not on the listing yet</div>`}</div>
+      <div class="bd"><div class="why">${esc(why)}</div><h3>${esc(title)}${num?`<sup>#${esc(num)}</sup>`:''}</h3><div class="var">${esc(l.variant||'')}${sib.length>1?` · ${sib.length} listings tracked`:''}</div>
+      <dl>${pub?`<dt>Publisher</dt><dd>${esc(pub)}</dd>`:''}${creator?`<dt>${l.series_id==='sy'?'Cover':'Creators'}</dt><dd>${esc(creator)}</dd>`:''}<dt>Released</dt><dd>${l.release_date?fD(l.release_date)+(l.release_date>TODAY?' (upcoming)':''):(l.published_at?'Listed '+fD(l.published_at.slice(0,10)):'Date not stated')}</dd><dt>At</dt><dd>${esc(retailerOf(l))}</dd></dl>
+      <div class="row"><a class="btn" href="${esc(l.listing_url)}" target="_blank" rel="noopener">View comic ↗</a><span class="s ${stClass(l.status)}">${STAT[l.status]}${lo!=null?` · from ${$$(lo)}`:l.price_usd!=null?` · ${$$(l.price_usd)}`:''}</span>${buy>1?`<span style="color:var(--muted);font-size:13px">${buy} covers buyable</span>`:''}</div>
+      <div class="ver">Picked by ${esc(pick.basis)} · checked ${fDT(l.last_verified)}<span class="tag ${l.verification}">${l.verification}</span></div></div></article>`;};
+  $('#feat2').innerHTML=featCard('Latest by Skottie Young',syLatest,'Skottie Young','No Skottie Young book with a release date is in the watch yet. The hourly scan adds one automatically.')
+    +featCard('Newest Absolute Batman issue',abLatest,'Absolute Batman','No shipped Absolute Batman issue with a release date is in the tracker yet.');
+  /* Supporting row: the next dated release for each watch, derived the same way. */
+  const msmNext=(()=>{const iss=(D.series[0].issues||[]).filter(i=>(i.retailer_release_date||i.release_date)>TODAY).sort((a,b)=>(a.retailer_release_date||a.release_date)<(b.retailer_release_date||b.release_date)?-1:1)[0];if(!iss)return null;const l=[...ofIssue(String(iss.number))].sort((a,b)=>((a.cover_letter||'Z')<(b.cover_letter||'Z')?-1:1)||rank(a,b))[0];return l?{l,why:'Next Midnight Spider-Man',date:iss.retailer_release_date||iss.release_date}:null;})();
+  const abNext=(()=>{const l=pickNext(abFirst);return l?{l,why:'Next Absolute Batman',date:l.release_date}:null;})();
+  const syNext=(()=>{const l=pickNext(SY);return l?{l,why:'Next Skottie Young cover',date:l.release_date}:null;})();
+  const subs=[msmNext,abNext,syNext].filter(Boolean);
+  $('#featSub').innerHTML=subs.map(x=>`<div><div class="th">${hasImg(x.l)?IMG(x.l):'<div class="noimg"></div>'}</div><div><div class="why">${esc(x.why)}</div><div class="t">${esc(x.l.title)}</div><div class="m">${x.date>TODAY?'Due ':''}${fMD(x.date)} · ${STAT[x.l.status]}${isBuy(x.l)&&x.l.price_usd!=null?' · '+$$(x.l.price_usd):''}</div></div><div style="display:flex;gap:6px;align-items:center">${bmBtn(x.l)}<a href="${esc(x.l.listing_url)}" target="_blank" rel="noopener" style="font-size:13px;font-weight:600">View ↗</a></div></div>`).join('');
+  $('#featSub').style.display=subs.length?'':'none';
+  $('#featPill').textContent=`Derived from release dates as of ${fMD(D.meta.generated_at.slice(0,10))}`;
+
+  /* ---------- Bookmarks page ---------- */
+  function bmGrid(){
+    const entries=Object.entries(BM).sort((a,b)=>a[1].saved_at<b[1].saved_at?1:-1);
+    const n=entries.length, gone=entries.filter(([k])=>!BYKEY[k]).length;
+    $('#bmPill').textContent=n?`${n} saved${gone?` · ${gone} no longer listed`:''}`:'Nothing saved';
+    const nt=$('#bmNotice'); if(!storageOk){nt.style.display='block';nt.textContent='This browser is blocking site storage (private mode or a privacy setting), so bookmarks will not survive a reload. Allow storage for this site to keep them.';}else nt.style.display='none';
+    if(!n){$('#bmBar').innerHTML='';$('#bmGrid').innerHTML=`<div class="empty"><h3>No bookmarked comics yet.</h3>Browse comics and tap the bookmark icon to save them for later.<br><button type="button" class="btn" data-go="covers">Browse covers</button></div>`;return;}
+    $('#bmBar').innerHTML=`<span>Saved in this browser only · newest first</span><button type="button" class="rm" id="bmClear">Remove all</button>`;
+    $('#bmClear').onclick=()=>{const keep={...BM};BM={};bmWrite();bmSync();toast(`Removed ${n} bookmark${n>1?'s':''}`,()=>{BM=keep;bmWrite();bmSync();});};
+    $('#bmGrid').innerHTML=entries.map(([k,b])=>{const l=BYKEY[k];const live=!!l;const img=live?(hasImg(l)?IMG(l):''):(b.image?IMG({image_url:b.image,image_local:null,title:b.title,variant:b.variant}):'');
+      return `<div class="cc ${live?'':'gone'}"><div class="im">${img||'No cover art'}</div><div class="bd"><div class="nm">${esc(b.title)}</div><div class="ar">${esc(b.variant)}${b.series?' · '+esc(b.series):''}${b.publisher?' · '+esc(b.publisher):''}</div>
+        ${b.creator?`<div class="ar" style="margin-top:-6px">${esc(b.creator)}</div>`:''}
+        <div class="pr"><span>${live?$$(l.price_usd):'—'}</span><span class="s ${live?stClass(l.status):'warn'}">${live?STAT[l.status]:'No longer listed'}</span></div>
+        <div class="ver">${b.release_date?'Release '+fMD(b.release_date)+' · ':''}Saved ${new Date(b.saved_at).toLocaleDateString('en-US',{timeZone:TZ,month:'short',day:'numeric'})}${b.retailer?' · '+esc(b.retailer):''}</div>
+        <div class="acts"><a class="btn" href="${esc(live?l.listing_url:b.url)}" target="_blank" rel="noopener">View comic ↗</a><button type="button" class="rm" data-bm="${esc(k)}" aria-pressed="true" aria-label="Remove bookmark: ${esc(b.title)}">Remove</button></div></div></div>`;}).join('');
+  }
+  bmSync();
 
   $('#sources').innerHTML=D.sources.map(s=>`<div class="card"><div class="eyebrow">${esc(s.role)}</div><h4>${esc(s.label.split(' — ')[0])}</h4><p>${esc(s.label.split(' — ')[1]||'')}</p><a href="${esc(s.url)}" target="_blank" rel="noopener">Open source ↗</a></div>`).join('');
   $('#dataStatus').textContent=D.meta.data_status+' '+(D.meta.image_policy||'');
