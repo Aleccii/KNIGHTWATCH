@@ -355,9 +355,15 @@ def merge(d, found, sources_done, cr, retailers):
             add_activity(d, "new_listing", f"New {cr['name']} listing: {label(row, retailers)}" + (f" (${row['price_usd']:.2f})." if row.get('price_usd') is not None else "."), row["listing_url"], cr["series_id"], cr["id"])
             row["first_seen"] = now_iso(); added += 1
         else:
-            row["id"] = old["id"]; row["first_seen"] = old.get("first_seen") or old.get("last_verified")
-            for k in ("status", "last_verified", "evidence", "image_local", "preorder"):
-                if k in old: row[k] = old[k]
+            row["first_seen"] = old.get("first_seen") or old.get("last_verified")
+            same_product = old.get("id") == row["id"]       # ids derive from the handle/pid, so a mismatch means a leaked id
+            if same_product:
+                for k in ("status", "last_verified", "evidence", "image_local", "preorder"):
+                    if k in old: row[k] = old[k]
+            else:
+                print(f"repair: {old.get('id')} -> {row['id']} ({row['listing_url']})", file=sys.stderr)
+                for k in ("status", "last_verified", "evidence", "preorder"):
+                    if k in old: row[k] = old[k]
             if old.get("editions") and row.get("editions"):
                 row["_old_editions"] = old["editions"]
             if old.get("release_date") and row.get("release_date") and old["release_date"] != row["release_date"]:
@@ -365,6 +371,8 @@ def merge(d, found, sources_done, cr, retailers):
         out.append(row)
     for url, old in by_url.items():          # rows not found this pass
         if old.get("retailer_id") in sources_done:
+            if cr["match"].lower() not in (old.get("retailer_title") or "").lower() and old.get("role") != "store":
+                print(f"drop: {old.get('id')} never credited {cr['name']} ({url})", file=sys.stderr); continue
             if old.get("status") != "unknown":
                 old["status"] = "unknown"; old["evidence"] = "No longer returned by the retailer's catalog/search — listing may have been removed."; old["last_verified"] = now_iso()
         out.append(old)
@@ -384,6 +392,8 @@ def verify(d, rows, cr, retailers, budget, dry, midtown_session=None):
     done = 0
     for row in rows:
         due_in = RECHECK_MIN.get(row.get("status"), 55)
+        if row.get("status") == "unknown" and str(row.get("evidence", "")).startswith("No longer returned"):
+            continue
         if fresh(row.get("last_verified"), due_in) and row.get("verification") == "live" and not str(row.get("evidence", "")).startswith("Live check failed") and row.get("status") not in (None, "needs_verification"):
             continue
         if budget and done >= budget:
@@ -451,7 +461,7 @@ def main(dry=False, budget=0, sources=None, force=False, include_writer=False):
         if "impulse" in srcs:
             r = retailers[cr["impulse_retailer_id"]]
             try:
-                items = impulse_discover(r, cr)
+                items = [p for p in impulse_discover(r, cr) if cr["match"].lower() in (p.get("title") or "").lower()]
                 found += [impulse_row(p, r, cr) for p in items]; done_sources.add(r["id"])
                 print(f"{r['name']}: {len(items)} {cr['name']} product(s)")
             except Exception as e:

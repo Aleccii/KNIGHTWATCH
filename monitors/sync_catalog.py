@@ -183,7 +183,7 @@ def build(p, r):
 
 def main(dry=False, budget=0, discover_only=False):
     d = load()
-    by_url = {l["listing_url"].split("?")[0].rstrip("/"): l for l in d["listings"]}
+    by_url = {l["listing_url"].split("?")[0].rstrip("/"): l for l in d["listings"] if not l.get("creator_id")}   # creator-watch rows can share a URL; never borrow their ids
     added = 0; found = []
     for r in d["retailers"]:
         if r.get("platform") != "shopify" or not r.get("website", "").startswith("http"):
