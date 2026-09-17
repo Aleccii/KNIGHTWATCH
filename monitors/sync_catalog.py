@@ -213,10 +213,16 @@ def main(dry=False, budget=0, discover_only=False):
                 add_activity(d, "new_listing", f"New listing: {row['title']} {row['variant']} at {r['name']} (${row['price_usd']:.2f}).", row["listing_url"], row["series_id"])
                 added += 1
             else:
-                # keep the existing id so links/activity stay stable; drop stale snapshot fields
-                row["id"] = old["id"]
-                for k in ("status", "last_verified", "evidence", "image_local", "signed_price_usd"):
-                    if k in old: row[k] = old[k]
+                # keep the existing id so links/activity stay stable; drop stale snapshot fields.
+                # If the stored id does not match this product's handle it leaked from another row:
+                # reset it and do not inherit that row's cover file.
+                if old["id"] == row["id"]:
+                    for k in ("status", "last_verified", "evidence", "image_local", "signed_price_usd"):
+                        if k in old: row[k] = old[k]
+                else:
+                    print(f"repair: {old['id']} -> {row['id']} ({row['listing_url']})", file=sys.stderr)
+                    for k in ("status", "last_verified", "evidence", "signed_price_usd"):
+                        if k in old: row[k] = old[k]
                 if old.get("release_date") and row["release_date"] and old["release_date"] != row["release_date"]:
                     add_activity(d, "date_change", f"{row['title']} {row['variant']} at {r['name']}: release date changed from {old['release_date']} to {row['release_date']} (retailer tag).", row["listing_url"], row["series_id"])
     # replace old rows for these retailers with the synced set; keep everything else
