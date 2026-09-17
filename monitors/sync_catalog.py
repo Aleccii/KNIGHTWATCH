@@ -40,7 +40,7 @@ MSM_LETTER_FIX = {
     ("1", "1:50 PEACH MOMOKO"): "G",
     ("1", "1:100 COVER J"): "J",
 }
-MSM_ARTIST_A = {"1": "Steve Beach"}   # Cover A artist per Marvel's solicit; Impulse's title omits it
+MSM_ARTIST_A = {"1": "Steve Beach", "2": "Steve Beach"}   # Cover A artist per Marvel's solicit; Impulse's title omits it. Unknown issues get no name, not a placeholder.
 
 def get(url, **kw):
     """GET with polite pacing and 429 backoff (Shopify throttles bursts)."""
@@ -113,7 +113,7 @@ def classify(title):
             if k in name.upper():
                 artist = k.title().replace("Jeehyung", "JeeHyung").replace("Inhyuk", "InHyuk"); break
         if letter == "A" and not artist:
-            artist = MSM_ARTIST_A.get(issue, "Not stated on listing")
+            artist = MSM_ARTIST_A.get(issue)
         cover_name = "Regular" if letter == "A" else (
             "Midnight Bloodbath" if "BLOODBATH" in name.upper() else
             "Midnight Special" + (" (virgin)" if virgin else "") if "MIDNIGHT SPECIAL" in name.upper() else
