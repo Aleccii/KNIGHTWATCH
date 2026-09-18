@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Midnight Watch — Tulsa Release Tracker",
-    "generated_at": "2026-09-18T15:20:44-05:00",
+    "generated_at": "2026-09-18T15:45:47-05:00",
     "timezone": "America/Chicago",
     "availability_scan": "every 30 minutes",
     "appearance_scan": "daily",
@@ -9170,7 +9170,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:19:25-05:00",
+      "last_verified": "2026-09-18T15:44:39-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9200,7 +9200,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:19:27-05:00",
+      "last_verified": "2026-09-18T15:44:40-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9230,7 +9230,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:19:28-05:00",
+      "last_verified": "2026-09-18T15:44:41-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9260,7 +9260,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:19:29-05:00",
+      "last_verified": "2026-09-18T15:44:41-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9290,7 +9290,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:19:30-05:00",
+      "last_verified": "2026-09-18T15:44:42-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9320,7 +9320,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:19:31-05:00",
+      "last_verified": "2026-09-18T15:44:42-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9350,7 +9350,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:19:31-05:00",
+      "last_verified": "2026-09-18T15:44:43-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9380,7 +9380,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:19:32-05:00",
+      "last_verified": "2026-09-18T15:44:44-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9410,7 +9410,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:19:34-05:00",
+      "last_verified": "2026-09-18T15:44:44-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9440,7 +9440,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:19:35-05:00",
+      "last_verified": "2026-09-18T15:44:45-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9470,7 +9470,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:19:35-05:00",
+      "last_verified": "2026-09-18T15:44:46-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9500,7 +9500,7 @@
       "signed_by": null,
       "printing": "Eighth",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:19:36-05:00",
+      "last_verified": "2026-09-18T15:44:46-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9530,7 +9530,7 @@
       "signed_by": null,
       "printing": "Eleventh",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:19:36-05:00",
+      "last_verified": "2026-09-18T15:44:47-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9560,7 +9560,7 @@
       "signed_by": null,
       "printing": "Fifth",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:19:37-05:00",
+      "last_verified": "2026-09-18T15:44:47-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9590,7 +9590,7 @@
       "signed_by": null,
       "printing": "Fifth",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:19:39-05:00",
+      "last_verified": "2026-09-18T15:44:48-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9620,7 +9620,7 @@
       "signed_by": null,
       "printing": "Fourth",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:19:40-05:00",
+      "last_verified": "2026-09-18T15:44:48-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9650,7 +9650,7 @@
       "signed_by": null,
       "printing": "Fourth",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:19:40-05:00",
+      "last_verified": "2026-09-18T15:44:49-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9680,7 +9680,7 @@
       "signed_by": null,
       "printing": "Fourth",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:19:41-05:00",
+      "last_verified": "2026-09-18T15:44:49-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9710,7 +9710,7 @@
       "signed_by": null,
       "printing": "Fourth",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:19:41-05:00",
+      "last_verified": "2026-09-18T15:44:50-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9740,7 +9740,7 @@
       "signed_by": null,
       "printing": "Fourth",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:19:42-05:00",
+      "last_verified": "2026-09-18T15:44:50-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9770,7 +9770,7 @@
       "signed_by": null,
       "printing": "Ninth",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:19:43-05:00",
+      "last_verified": "2026-09-18T15:44:51-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9800,7 +9800,7 @@
       "signed_by": null,
       "printing": "Second",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:19:44-05:00",
+      "last_verified": "2026-09-18T15:44:52-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9830,7 +9830,7 @@
       "signed_by": null,
       "printing": "Second",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:19:44-05:00",
+      "last_verified": "2026-09-18T15:44:52-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9860,7 +9860,7 @@
       "signed_by": null,
       "printing": "Second",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:19:46-05:00",
+      "last_verified": "2026-09-18T15:44:53-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9890,7 +9890,7 @@
       "signed_by": null,
       "printing": "Second",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:19:46-05:00",
+      "last_verified": "2026-09-18T15:44:53-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9920,7 +9920,7 @@
       "signed_by": null,
       "printing": "Seventh",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:19:49-05:00",
+      "last_verified": "2026-09-18T15:44:54-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9950,7 +9950,7 @@
       "signed_by": null,
       "printing": "Seventh",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:19:50-05:00",
+      "last_verified": "2026-09-18T15:44:54-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9980,7 +9980,7 @@
       "signed_by": null,
       "printing": "Seventh",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:19:51-05:00",
+      "last_verified": "2026-09-18T15:44:55-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -10010,7 +10010,7 @@
       "signed_by": null,
       "printing": "Sixth",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:19:51-05:00",
+      "last_verified": "2026-09-18T15:44:55-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -10650,8 +10650,7 @@
       "printing": "Third",
       "status": "sold_out",
       "last_verified": "2026-09-18T15:19:24-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-11-cvr-a-nick-dragotta",
@@ -18705,8 +18704,9 @@
       "format": "collected edition (trade paperback)",
       "signed_by": null,
       "status": "sold_out",
-      "last_verified": "2026-09-18T14:19:25-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
+      "last_verified": "2026-09-18T15:44:37-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "preorder": "closed"
     },
     {
       "id": "impulse-absolute-batman-tp-vol-03",
@@ -19565,7 +19565,7 @@
       "signed_by": null,
       "printing": "7Th",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:20:12-05:00",
+      "last_verified": "2026-09-18T15:45:20-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -19595,7 +19595,7 @@
       "signed_by": null,
       "printing": "7Th",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:20:13-05:00",
+      "last_verified": "2026-09-18T15:45:20-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -19625,7 +19625,7 @@
       "signed_by": null,
       "printing": "7Th",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:20:13-05:00",
+      "last_verified": "2026-09-18T15:45:20-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -19655,7 +19655,7 @@
       "signed_by": null,
       "printing": "Eighth",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:20:13-05:00",
+      "last_verified": "2026-09-18T15:45:21-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -19685,7 +19685,7 @@
       "signed_by": null,
       "printing": "Eleventh",
       "status": "available",
-      "last_verified": "2026-09-18T15:20:14-05:00",
+      "last_verified": "2026-09-18T15:45:21-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "preorder": null
     },
@@ -19715,7 +19715,7 @@
       "signed_by": null,
       "printing": "Fourth",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:20:14-05:00",
+      "last_verified": "2026-09-18T15:45:22-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -19745,7 +19745,7 @@
       "signed_by": null,
       "printing": "Ninth",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:20:15-05:00",
+      "last_verified": "2026-09-18T15:45:22-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -19775,7 +19775,7 @@
       "signed_by": null,
       "printing": "Sixth",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:20:16-05:00",
+      "last_verified": "2026-09-18T15:45:23-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -19805,7 +19805,7 @@
       "signed_by": null,
       "printing": "Sixth",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:20:16-05:00",
+      "last_verified": "2026-09-18T15:45:23-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -19835,7 +19835,7 @@
       "signed_by": null,
       "printing": "Tenth",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:20:17-05:00",
+      "last_verified": "2026-09-18T15:45:24-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -19865,7 +19865,7 @@
       "signed_by": null,
       "printing": "Tenth",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:20:18-05:00",
+      "last_verified": "2026-09-18T15:45:24-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -19895,7 +19895,7 @@
       "signed_by": null,
       "printing": "Tenth",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:20:19-05:00",
+      "last_verified": "2026-09-18T15:45:25-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -19925,7 +19925,7 @@
       "signed_by": null,
       "printing": "Twelfth",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:20:20-05:00",
+      "last_verified": "2026-09-18T15:45:25-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -19955,7 +19955,7 @@
       "signed_by": null,
       "printing": "Second",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:20:21-05:00",
+      "last_verified": "2026-09-18T15:45:26-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -19985,7 +19985,7 @@
       "signed_by": null,
       "printing": "3Rd",
       "status": "available",
-      "last_verified": "2026-09-18T15:20:22-05:00",
+      "last_verified": "2026-09-18T15:45:26-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "preorder": null
     },
@@ -20015,7 +20015,7 @@
       "signed_by": null,
       "printing": "5Th",
       "status": "available",
-      "last_verified": "2026-09-18T15:20:22-05:00",
+      "last_verified": "2026-09-18T15:45:27-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "preorder": null
     },
@@ -20045,7 +20045,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:20:23-05:00",
+      "last_verified": "2026-09-18T15:45:27-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -20075,7 +20075,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:20:24-05:00",
+      "last_verified": "2026-09-18T15:45:28-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -20105,7 +20105,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:20:24-05:00",
+      "last_verified": "2026-09-18T15:45:28-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -20135,7 +20135,7 @@
       "signed_by": null,
       "printing": "3Rd",
       "status": "available",
-      "last_verified": "2026-09-18T15:20:25-05:00",
+      "last_verified": "2026-09-18T15:45:29-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "preorder": null
     },
@@ -20165,7 +20165,7 @@
       "signed_by": null,
       "printing": "5Th",
       "status": "available",
-      "last_verified": "2026-09-18T15:20:25-05:00",
+      "last_verified": "2026-09-18T15:45:29-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "preorder": null
     },
@@ -20195,7 +20195,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:20:26-05:00",
+      "last_verified": "2026-09-18T15:45:29-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -20225,7 +20225,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:20:26-05:00",
+      "last_verified": "2026-09-18T15:45:30-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -20255,7 +20255,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:20:27-05:00",
+      "last_verified": "2026-09-18T15:45:30-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -20285,7 +20285,7 @@
       "signed_by": null,
       "printing": "Second",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:20:27-05:00",
+      "last_verified": "2026-09-18T15:45:31-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -20315,7 +20315,7 @@
       "signed_by": null,
       "printing": "3Rd",
       "status": "available",
-      "last_verified": "2026-09-18T15:20:28-05:00",
+      "last_verified": "2026-09-18T15:45:31-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "preorder": null
     },
@@ -20345,7 +20345,7 @@
       "signed_by": null,
       "printing": "5Th",
       "status": "available",
-      "last_verified": "2026-09-18T15:20:29-05:00",
+      "last_verified": "2026-09-18T15:45:32-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "preorder": null
     },
@@ -20375,7 +20375,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:20:29-05:00",
+      "last_verified": "2026-09-18T15:45:32-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -20405,7 +20405,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:20:30-05:00",
+      "last_verified": "2026-09-18T15:45:33-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -20435,7 +20435,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:20:31-05:00",
+      "last_verified": "2026-09-18T15:45:33-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -23974,8 +23974,9 @@
       "signed_by": null,
       "printing": "Second",
       "status": "sold_out",
-      "last_verified": "2026-09-18T14:20:25-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
+      "last_verified": "2026-09-18T15:44:38-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "preorder": "closed"
     },
     {
       "id": "route66-1125dc8018-absolute-batman-2025-annual-1",
@@ -24368,7 +24369,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:20:41-05:00",
+      "last_verified": "2026-09-18T15:45:45-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -24398,7 +24399,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:20:42-05:00",
+      "last_verified": "2026-09-18T15:45:45-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -24428,7 +24429,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:20:42-05:00",
+      "last_verified": "2026-09-18T15:45:46-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -24458,7 +24459,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:20:43-05:00",
+      "last_verified": "2026-09-18T15:45:46-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "image_local": "covers/skottie-shop-absolute-batman-20-cgc-sig-series-9-9-set-of-three.jpg",
       "preorder": "closed"
@@ -24489,7 +24490,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:20:43-05:00",
+      "last_verified": "2026-09-18T15:45:47-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -24519,7 +24520,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-18T15:20:44-05:00",
+      "last_verified": "2026-09-18T15:45:47-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "image_local": "covers/skottie-shop-absolute-batman-24-artist-exclusive.jpg",
       "preorder": "closed"
