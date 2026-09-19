@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Midnight Watch — Tulsa Release Tracker",
-    "generated_at": "2026-09-19T12:19:41-05:00",
+    "generated_at": "2026-09-19T12:44:01-05:00",
     "timezone": "America/Chicago",
     "availability_scan": "every 30 minutes",
     "appearance_scan": "daily",
@@ -9171,7 +9171,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:17:34-05:00",
+      "last_verified": "2026-09-19T12:42:40-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9201,7 +9201,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:17:35-05:00",
+      "last_verified": "2026-09-19T12:42:41-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9231,7 +9231,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:17:36-05:00",
+      "last_verified": "2026-09-19T12:42:41-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9261,7 +9261,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:17:37-05:00",
+      "last_verified": "2026-09-19T12:42:42-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9291,7 +9291,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:17:37-05:00",
+      "last_verified": "2026-09-19T12:42:43-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9321,7 +9321,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:17:38-05:00",
+      "last_verified": "2026-09-19T12:42:43-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9351,7 +9351,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:17:39-05:00",
+      "last_verified": "2026-09-19T12:42:44-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9381,7 +9381,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:17:39-05:00",
+      "last_verified": "2026-09-19T12:42:44-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9411,7 +9411,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:17:40-05:00",
+      "last_verified": "2026-09-19T12:42:45-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9441,7 +9441,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:17:41-05:00",
+      "last_verified": "2026-09-19T12:42:46-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9471,7 +9471,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:17:41-05:00",
+      "last_verified": "2026-09-19T12:42:46-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9501,7 +9501,7 @@
       "signed_by": null,
       "printing": "Eighth",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:17:42-05:00",
+      "last_verified": "2026-09-19T12:42:47-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9531,7 +9531,7 @@
       "signed_by": null,
       "printing": "Eleventh",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:17:43-05:00",
+      "last_verified": "2026-09-19T12:42:47-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9561,7 +9561,7 @@
       "signed_by": null,
       "printing": "Fifth",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:17:43-05:00",
+      "last_verified": "2026-09-19T12:42:48-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9591,7 +9591,7 @@
       "signed_by": null,
       "printing": "Fifth",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:17:44-05:00",
+      "last_verified": "2026-09-19T12:42:49-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9621,7 +9621,7 @@
       "signed_by": null,
       "printing": "Fourth",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:17:45-05:00",
+      "last_verified": "2026-09-19T12:42:49-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9651,7 +9651,7 @@
       "signed_by": null,
       "printing": "Fourth",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:17:45-05:00",
+      "last_verified": "2026-09-19T12:42:50-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9681,7 +9681,7 @@
       "signed_by": null,
       "printing": "Fourth",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:17:46-05:00",
+      "last_verified": "2026-09-19T12:42:50-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9711,7 +9711,7 @@
       "signed_by": null,
       "printing": "Fourth",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:17:47-05:00",
+      "last_verified": "2026-09-19T12:42:51-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9741,7 +9741,7 @@
       "signed_by": null,
       "printing": "Fourth",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:17:47-05:00",
+      "last_verified": "2026-09-19T12:42:52-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9771,7 +9771,7 @@
       "signed_by": null,
       "printing": "Ninth",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:17:48-05:00",
+      "last_verified": "2026-09-19T12:42:52-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9801,7 +9801,7 @@
       "signed_by": null,
       "printing": "Second",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:17:49-05:00",
+      "last_verified": "2026-09-19T12:42:53-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9831,7 +9831,7 @@
       "signed_by": null,
       "printing": "Second",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:17:49-05:00",
+      "last_verified": "2026-09-19T12:42:53-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9861,7 +9861,7 @@
       "signed_by": null,
       "printing": "Second",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:17:50-05:00",
+      "last_verified": "2026-09-19T12:42:54-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9891,7 +9891,7 @@
       "signed_by": null,
       "printing": "Second",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:17:50-05:00",
+      "last_verified": "2026-09-19T12:42:54-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9921,7 +9921,7 @@
       "signed_by": null,
       "printing": "Seventh",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:17:51-05:00",
+      "last_verified": "2026-09-19T12:42:55-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9951,7 +9951,7 @@
       "signed_by": null,
       "printing": "Seventh",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:17:51-05:00",
+      "last_verified": "2026-09-19T12:42:56-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -9981,7 +9981,7 @@
       "signed_by": null,
       "printing": "Seventh",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:17:52-05:00",
+      "last_verified": "2026-09-19T12:42:56-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -10011,7 +10011,7 @@
       "signed_by": null,
       "printing": "Sixth",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:17:53-05:00",
+      "last_verified": "2026-09-19T12:42:57-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -10042,8 +10042,7 @@
       "printing": "Sixth",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:17:53-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-1-sixth-printing-open-to-order-foil-connecting-variant-cover",
@@ -10072,8 +10071,7 @@
       "printing": "Sixth",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:17:54-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-1-tenth-printing-dragotta-cover",
@@ -10102,8 +10100,7 @@
       "printing": "Tenth",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:17:55-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-1-tenth-printing-inhyuk-lee-card-stock-variant",
@@ -10132,8 +10129,7 @@
       "printing": "Tenth",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:17:55-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-1-tenth-printing-cvr-c-inhyuk-lee-foil-var",
@@ -10162,8 +10158,7 @@
       "printing": "Tenth",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:17:56-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-1-third-printing-cvr-a-nick-dragotta",
@@ -10192,8 +10187,7 @@
       "printing": "Third",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:17:56-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-1-third-printing-cvr-b-jerome-opena-card-stock-var",
@@ -10222,8 +10216,7 @@
       "printing": "Third",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:17:57-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-1-third-printing-cvr-c-nick-dragotta-foil-var",
@@ -10252,8 +10245,7 @@
       "printing": "Third",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:17:58-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-1-third-printing-cvr-d-inc-1-25-nick-dragotta-inks-card-stock-var",
@@ -10282,8 +10274,7 @@
       "printing": "Third",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:17:58-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-1-twelfth-printing",
@@ -10312,8 +10303,7 @@
       "printing": "Twelfth",
       "status": "available",
       "last_verified": "2026-09-19T12:17:59-05:00",
-      "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
-      "preorder": null
+      "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form"
     },
     {
       "id": "impulse-absolute-batman-10-cvr-a-nick-dragotta",
@@ -10342,8 +10332,7 @@
       "printing": "First",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:18:00-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-10-cvr-a-nick-dragotta-signed-by-scott-snyder",
@@ -10372,8 +10361,7 @@
       "printing": "First",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:18:00-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-10-cvr-b-gabriele-dell-otto-card-stock-var",
@@ -10402,8 +10390,7 @@
       "printing": "First",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:18:01-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-10-cvr-c-guillem-march-card-stock-var",
@@ -10432,8 +10419,7 @@
       "printing": "First",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:18:01-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-10-cvr-d-inc-1-25-darick-robertson-card-stock-var",
@@ -10462,8 +10448,7 @@
       "printing": "First",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:18:02-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-10-cvr-d-inc-1-25-darick-robertson-card-stock-var-signed-by-scott-",
@@ -10492,8 +10477,7 @@
       "printing": "First",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:18:03-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-10-cvr-e-inc-1-50-shawn-crystal-card-stock-var",
@@ -10522,8 +10506,7 @@
       "printing": "First",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:18:03-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-10-cvr-e-inc-1-50-shawn-crystal-card-stock-var-signed-by-scott-sny",
@@ -10552,8 +10535,7 @@
       "printing": "First",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:18:04-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-10-fifth-printing",
@@ -10582,8 +10564,7 @@
       "printing": "Fifth",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:18:04-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-10-fourth-printing",
@@ -10612,8 +10593,7 @@
       "printing": "Fourth",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:18:05-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-10-second-printing",
@@ -10642,8 +10622,7 @@
       "printing": "Second",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:18:06-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-10-third-printing",
@@ -10672,8 +10651,7 @@
       "printing": "Third",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:18:06-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-11-cvr-a-nick-dragotta",
@@ -10702,8 +10680,7 @@
       "printing": "First",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:18:07-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-11-cvr-a-nick-dragotta-signed-by-scott-snyder",
@@ -10732,8 +10709,7 @@
       "printing": "First",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:18:08-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-11-cvr-b-lee-garbett-card-stock-var",
@@ -10762,8 +10738,7 @@
       "printing": "First",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:18:08-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-11-cvr-b-lee-garbett-card-stock-var-signed-by-scott-snyder",
@@ -10792,8 +10767,7 @@
       "printing": "First",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:18:09-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-11-cvr-c-chris-burnham-card-stock-var",
@@ -10822,8 +10796,7 @@
       "printing": "First",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:18:09-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-11-cvr-c-chris-burnham-card-stock-var-signed-by-scott-snyder",
@@ -10852,8 +10825,7 @@
       "printing": "First",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:18:10-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-11-cvr-d-inc-1-25-clay-mann-seth-mann-card-stock-var",
@@ -10882,8 +10854,7 @@
       "printing": "First",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:18:11-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-11-cvr-d-inc-1-25-clay-mann-seth-mann-card-stock-var-signed-by-sco",
@@ -10912,8 +10883,7 @@
       "printing": "First",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:18:11-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-11-cvr-e-inc-1-50-chris-mooneyham-card-stock-var",
@@ -10942,8 +10912,7 @@
       "printing": "First",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:18:12-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-11-cvr-e-inc-1-50-chris-mooneyham-card-stock-var-signed-by-scott-s",
@@ -10972,8 +10941,7 @@
       "printing": "First",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:18:12-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-11-fifth-printing",
@@ -11002,8 +10970,7 @@
       "printing": "Fifth",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:18:13-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-11-fourth-printing",
@@ -11032,8 +10999,7 @@
       "printing": "Fourth",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:18:14-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-11-second-printing",
@@ -11062,8 +11028,7 @@
       "printing": "Second",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:18:14-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-11-third-printing",
@@ -11092,8 +11057,7 @@
       "printing": "Third",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:18:15-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-12-cvr-a-nick-dragotta",
@@ -11122,8 +11086,7 @@
       "printing": "First",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:18:15-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-12-cvr-b-paul-pope-card-stock-var",
@@ -11152,8 +11115,7 @@
       "printing": "First",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:18:16-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-12-cvr-c-denys-cowan-card-stock-var",
@@ -11240,8 +11202,7 @@
       "printing": "First",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:18:17-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-12-cvr-f-inc-1-50-paul-pope-virgin-card-stock-var",
@@ -11270,8 +11231,7 @@
       "printing": "First",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:18:17-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-12-fifth-printing",
@@ -11300,8 +11260,7 @@
       "printing": "Fifth",
       "status": "available",
       "last_verified": "2026-09-19T12:18:18-05:00",
-      "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
-      "preorder": null
+      "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form"
     },
     {
       "id": "impulse-absolute-batman-12-fourth-printing",
@@ -11330,8 +11289,7 @@
       "printing": "Fourth",
       "status": "available",
       "last_verified": "2026-09-19T12:18:19-05:00",
-      "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
-      "preorder": null
+      "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form"
     },
     {
       "id": "impulse-absolute-batman-12-second-printing",
@@ -11476,8 +11434,7 @@
       "printing": "First",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:18:20-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-13-cvr-d-adam-hughes-card-stock-var",
@@ -11651,8 +11608,7 @@
       "printing": "First",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:18:21-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-13-fourth-printing",
@@ -12928,8 +12884,7 @@
       "printing": "First",
       "status": "available",
       "last_verified": "2026-09-19T12:18:26-05:00",
-      "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
-      "preorder": null
+      "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form"
     },
     {
       "id": "impulse-absolute-batman-17-second-printing",
@@ -14292,8 +14247,7 @@
       "printing": "First",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:18:31-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-21-cvr-d-doug-mahnke-card-stock-var",
@@ -15482,8 +15436,7 @@
       "printing": "Third",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:18:35-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-3-third-printing-open-to-order-variant-cover",
@@ -17136,8 +17089,7 @@
       "printing": "Fifth",
       "status": "available",
       "last_verified": "2026-09-19T12:18:41-05:00",
-      "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
-      "preorder": null
+      "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form"
     },
     {
       "id": "impulse-absolute-batman-8-fourth-printing",
@@ -18516,8 +18468,9 @@
       "format": "collected edition (hardcover) (signed)",
       "signed_by": "Scott Snyder",
       "status": "sold_out",
-      "last_verified": "2026-09-19T11:20:25-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
+      "last_verified": "2026-09-19T12:42:39-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "preorder": "closed"
     },
     {
       "id": "impulse-absolute-batman-hc-vol-02-abomination",
@@ -18624,8 +18577,9 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-19T11:59:19-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
+      "last_verified": "2026-09-19T12:43:25-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "preorder": "closed"
     },
     {
       "id": "impulse-absolute-batman-noir-edition-1-one-shot-cvr-c-nick-dragotta-foil-var",
@@ -19139,8 +19093,7 @@
       "status": "sold_out",
       "last_verified": "2026-09-19T12:18:48-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "image_local": "covers/impulse-midnight-spider-man-1-cover-d-skan-midnight-horror-homage-variant-signed-by-philli.jpg",
-      "preorder": "closed"
+      "image_local": "covers/impulse-midnight-spider-man-1-cover-d-skan-midnight-horror-homage-variant-signed-by-philli.jpg"
     },
     {
       "id": "impulse-midnight-spider-man-1-1-50-tbd-artist-midnight-special-virgin-variant",
@@ -19614,7 +19567,7 @@
       "signed_by": null,
       "printing": "7Th",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:18:50-05:00",
+      "last_verified": "2026-09-19T12:43:29-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -19644,7 +19597,7 @@
       "signed_by": null,
       "printing": "7Th",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:18:51-05:00",
+      "last_verified": "2026-09-19T12:43:29-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -19674,7 +19627,7 @@
       "signed_by": null,
       "printing": "7Th",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:18:51-05:00",
+      "last_verified": "2026-09-19T12:43:30-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -19704,7 +19657,7 @@
       "signed_by": null,
       "printing": "Eighth",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:18:52-05:00",
+      "last_verified": "2026-09-19T12:43:30-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -19734,7 +19687,7 @@
       "signed_by": null,
       "printing": "Eleventh",
       "status": "needs_verification",
-      "last_verified": "2026-09-19T12:18:52-05:00",
+      "last_verified": "2026-09-19T12:43:31-05:00",
       "evidence": "Contradictory signals (js_available=True, button='', disabled=False)",
       "preorder": null
     },
@@ -19764,7 +19717,7 @@
       "signed_by": null,
       "printing": "Fourth",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:18:53-05:00",
+      "last_verified": "2026-09-19T12:43:31-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -19794,7 +19747,7 @@
       "signed_by": null,
       "printing": "Ninth",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:18:53-05:00",
+      "last_verified": "2026-09-19T12:43:32-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -19824,7 +19777,7 @@
       "signed_by": null,
       "printing": "Sixth",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:18:54-05:00",
+      "last_verified": "2026-09-19T12:43:32-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -19854,7 +19807,7 @@
       "signed_by": null,
       "printing": "Sixth",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:18:55-05:00",
+      "last_verified": "2026-09-19T12:43:33-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -19884,7 +19837,7 @@
       "signed_by": null,
       "printing": "Tenth",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:18:55-05:00",
+      "last_verified": "2026-09-19T12:43:33-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -19914,7 +19867,7 @@
       "signed_by": null,
       "printing": "Tenth",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:18:56-05:00",
+      "last_verified": "2026-09-19T12:43:34-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -19944,7 +19897,7 @@
       "signed_by": null,
       "printing": "Tenth",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:18:56-05:00",
+      "last_verified": "2026-09-19T12:43:35-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -19974,7 +19927,7 @@
       "signed_by": null,
       "printing": "Twelfth",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:18:57-05:00",
+      "last_verified": "2026-09-19T12:43:35-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -20004,7 +19957,7 @@
       "signed_by": null,
       "printing": "Second",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:18:57-05:00",
+      "last_verified": "2026-09-19T12:43:36-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -20034,7 +19987,7 @@
       "signed_by": null,
       "printing": "3Rd",
       "status": "needs_verification",
-      "last_verified": "2026-09-19T12:18:58-05:00",
+      "last_verified": "2026-09-19T12:43:36-05:00",
       "evidence": "Contradictory signals (js_available=True, button='', disabled=False)",
       "preorder": null
     },
@@ -20064,7 +20017,7 @@
       "signed_by": null,
       "printing": "5Th",
       "status": "needs_verification",
-      "last_verified": "2026-09-19T12:18:58-05:00",
+      "last_verified": "2026-09-19T12:43:37-05:00",
       "evidence": "Contradictory signals (js_available=True, button='', disabled=False)",
       "preorder": null
     },
@@ -20094,7 +20047,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:18:59-05:00",
+      "last_verified": "2026-09-19T12:43:37-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -20124,7 +20077,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:18:59-05:00",
+      "last_verified": "2026-09-19T12:43:38-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -20154,7 +20107,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:19:00-05:00",
+      "last_verified": "2026-09-19T12:43:38-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -20184,7 +20137,7 @@
       "signed_by": null,
       "printing": "3Rd",
       "status": "needs_verification",
-      "last_verified": "2026-09-19T12:19:00-05:00",
+      "last_verified": "2026-09-19T12:43:39-05:00",
       "evidence": "Contradictory signals (js_available=True, button='', disabled=False)",
       "preorder": null
     },
@@ -20214,7 +20167,7 @@
       "signed_by": null,
       "printing": "5Th",
       "status": "needs_verification",
-      "last_verified": "2026-09-19T12:19:01-05:00",
+      "last_verified": "2026-09-19T12:43:39-05:00",
       "evidence": "Contradictory signals (js_available=True, button='', disabled=False)",
       "preorder": null
     },
@@ -20244,7 +20197,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:19:02-05:00",
+      "last_verified": "2026-09-19T12:43:40-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -20274,7 +20227,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:19:02-05:00",
+      "last_verified": "2026-09-19T12:43:41-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -20304,7 +20257,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:19:03-05:00",
+      "last_verified": "2026-09-19T12:43:41-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -20334,7 +20287,7 @@
       "signed_by": null,
       "printing": "Second",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:19:03-05:00",
+      "last_verified": "2026-09-19T12:43:41-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -20364,7 +20317,7 @@
       "signed_by": null,
       "printing": "3Rd",
       "status": "needs_verification",
-      "last_verified": "2026-09-19T12:19:04-05:00",
+      "last_verified": "2026-09-19T12:43:42-05:00",
       "evidence": "Contradictory signals (js_available=True, button='', disabled=False)",
       "preorder": null
     },
@@ -20394,7 +20347,7 @@
       "signed_by": null,
       "printing": "5Th",
       "status": "needs_verification",
-      "last_verified": "2026-09-19T12:19:04-05:00",
+      "last_verified": "2026-09-19T12:43:43-05:00",
       "evidence": "Contradictory signals (js_available=True, button='', disabled=False)",
       "preorder": null
     },
@@ -20424,7 +20377,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:19:05-05:00",
+      "last_verified": "2026-09-19T12:43:43-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -20454,7 +20407,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:19:05-05:00",
+      "last_verified": "2026-09-19T12:43:44-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -20484,7 +20437,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:19:06-05:00",
+      "last_verified": "2026-09-19T12:43:44-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -20515,8 +20468,7 @@
       "printing": "First",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:19:06-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
     },
     {
       "id": "route66-0925dc8260-absolute-batman-13",
@@ -20545,8 +20497,7 @@
       "printing": "Second",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:19:07-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
     },
     {
       "id": "route66-0925dc8261-absolute-batman-13",
@@ -20575,8 +20526,7 @@
       "printing": "Second",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:19:07-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
     },
     {
       "id": "route66-0126dc8156-absolute-batman-13",
@@ -20605,8 +20555,7 @@
       "printing": "3Rd",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:19:08-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
     },
     {
       "id": "route66-0626dc8529-absolute-batman-13",
@@ -20635,8 +20584,7 @@
       "printing": "4Th",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:19:08-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
     },
     {
       "id": "route66-0825dc0047-absolute-batman-13",
@@ -20665,8 +20613,7 @@
       "printing": "First",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:19:09-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
     },
     {
       "id": "route66-0825dc0048-absolute-batman-13",
@@ -20695,8 +20642,7 @@
       "printing": "First",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:19:10-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
     },
     {
       "id": "route66-0825dc0049-absolute-batman-13",
@@ -20725,8 +20671,7 @@
       "printing": "First",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:19:10-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
     },
     {
       "id": "route66-0825dc0050-absolute-batman-13",
@@ -20755,8 +20700,7 @@
       "printing": "First",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:19:11-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
     },
     {
       "id": "route66-0825dc0052-absolute-batman-13",
@@ -20785,8 +20729,7 @@
       "printing": "First",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:19:11-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
     },
     {
       "id": "route66-1225dc8028-absolute-batman-14",
@@ -20815,8 +20758,7 @@
       "printing": "Second",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:19:12-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
     },
     {
       "id": "route66-1225dc8029-absolute-batman-14",
@@ -20845,8 +20787,7 @@
       "printing": "Second",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:19:12-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
     },
     {
       "id": "route66-0126dc8157-absolute-batman-14",
@@ -20875,8 +20816,7 @@
       "printing": "3Rd",
       "status": "needs_verification",
       "last_verified": "2026-09-19T12:19:13-05:00",
-      "evidence": "Contradictory signals (js_available=True, button='', disabled=False)",
-      "preorder": null
+      "evidence": "Contradictory signals (js_available=True, button='', disabled=False)"
     },
     {
       "id": "route66-0626dc8530-absolute-batman-14",
@@ -20905,8 +20845,7 @@
       "printing": "4Th",
       "status": "needs_verification",
       "last_verified": "2026-09-19T12:19:13-05:00",
-      "evidence": "Contradictory signals (js_available=True, button='', disabled=False)",
-      "preorder": null
+      "evidence": "Contradictory signals (js_available=True, button='', disabled=False)"
     },
     {
       "id": "route66-0925dc0053-absolute-batman-14",
@@ -20935,8 +20874,7 @@
       "printing": "First",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:19:14-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
     },
     {
       "id": "route66-0925dc0054-absolute-batman-14",
@@ -20965,8 +20903,7 @@
       "printing": "First",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:19:14-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
     },
     {
       "id": "route66-0925dc0055-absolute-batman-14",
@@ -20995,8 +20932,7 @@
       "printing": "First",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:19:15-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
     },
     {
       "id": "route66-0925dc8349-absolute-batman-14",
@@ -21025,8 +20961,7 @@
       "printing": "First",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:19:15-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
     },
     {
       "id": "route66-1225dc8030-absolute-batman-15",
@@ -21055,8 +20990,7 @@
       "printing": "Second",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:19:16-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
     },
     {
       "id": "route66-1225dc8031-absolute-batman-15",
@@ -21085,8 +21019,7 @@
       "printing": "Second",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:19:16-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
     },
     {
       "id": "route66-1225dc8032-absolute-batman-15",
@@ -21115,8 +21048,7 @@
       "printing": "Second",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:19:17-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
     },
     {
       "id": "route66-1225dc8033-absolute-batman-15",
@@ -21145,8 +21077,7 @@
       "printing": "Second",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:19:18-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
     },
     {
       "id": "route66-1225dc8034-absolute-batman-15",
@@ -21175,8 +21106,7 @@
       "printing": "Second",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:19:18-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
     },
     {
       "id": "route66-1225dc8035-absolute-batman-15",
@@ -21205,8 +21135,7 @@
       "printing": "Second",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:19:19-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
     },
     {
       "id": "route66-0226dc8054-absolute-batman-15",
@@ -21235,8 +21164,7 @@
       "printing": "3Rd",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:19:19-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
     },
     {
       "id": "route66-0226dc8055-absolute-batman-15",
@@ -21265,8 +21193,7 @@
       "printing": "3Rd",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:19:20-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
     },
     {
       "id": "route66-0426dc8396-absolute-batman-15",
@@ -21295,8 +21222,7 @@
       "printing": "4Th",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:19:20-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
     },
     {
       "id": "route66-0426dc8397-absolute-batman-15",
@@ -21325,8 +21251,7 @@
       "printing": "4Th",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:19:21-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
     },
     {
       "id": "route66-0626dc8531-absolute-batman-15",
@@ -21355,8 +21280,7 @@
       "printing": "5Th",
       "status": "needs_verification",
       "last_verified": "2026-09-19T12:19:21-05:00",
-      "evidence": "Contradictory signals (js_available=True, button='', disabled=False)",
-      "preorder": null
+      "evidence": "Contradictory signals (js_available=True, button='', disabled=False)"
     },
     {
       "id": "route66-1025dc0050-absolute-batman-15",
@@ -21385,8 +21309,7 @@
       "printing": "First",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:19:22-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
     },
     {
       "id": "route66-1025dc0051-absolute-batman-15",
@@ -21415,8 +21338,7 @@
       "printing": "First",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:19:23-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
     },
     {
       "id": "route66-1025dc0052-absolute-batman-15",
@@ -21474,8 +21396,7 @@
       "printing": "First",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:19:23-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
     },
     {
       "id": "route66-1025dc0054-absolute-batman-15",
@@ -21504,8 +21425,7 @@
       "printing": "First",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:19:24-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
     },
     {
       "id": "route66-0126dc8297-absolute-batman-16",
@@ -21592,8 +21512,7 @@
       "printing": "3Rd",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:19:25-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
     },
     {
       "id": "route66-1125dc0045-absolute-batman-16",
@@ -21622,8 +21541,7 @@
       "printing": "First",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:19:25-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
     },
     {
       "id": "route66-1125dc0046-absolute-batman-16",
@@ -21652,8 +21570,7 @@
       "printing": "First",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:19:26-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
     },
     {
       "id": "route66-1125dc0047-absolute-batman-16",
@@ -21856,8 +21773,7 @@
       "printing": "First",
       "status": "needs_verification",
       "last_verified": "2026-09-19T12:19:27-05:00",
-      "evidence": "Contradictory signals (js_available=True, button='', disabled=False)",
-      "preorder": null
+      "evidence": "Contradictory signals (js_available=True, button='', disabled=False)"
     },
     {
       "id": "route66-1225dc0077-absolute-batman-17",
@@ -23220,8 +23136,7 @@
       "printing": "5Th",
       "status": "sold_out",
       "last_verified": "2026-09-19T12:19:33-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
-      "preorder": "closed"
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
     },
     {
       "id": "route66-0126dc8146-absolute-batman-3",
@@ -24455,7 +24370,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:19:38-05:00",
+      "last_verified": "2026-09-19T12:43:58-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -24485,7 +24400,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:19:39-05:00",
+      "last_verified": "2026-09-19T12:43:59-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -24515,7 +24430,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:19:39-05:00",
+      "last_verified": "2026-09-19T12:43:59-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -24545,7 +24460,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:19:40-05:00",
+      "last_verified": "2026-09-19T12:44:00-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "image_local": "covers/skottie-shop-absolute-batman-20-cgc-sig-series-9-9-set-of-three.jpg",
       "preorder": "closed"
@@ -24576,7 +24491,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:19:41-05:00",
+      "last_verified": "2026-09-19T12:44:00-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -24606,7 +24521,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-19T12:19:41-05:00",
+      "last_verified": "2026-09-19T12:44:01-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "image_local": "covers/skottie-shop-absolute-batman-24-artist-exclusive.jpg",
       "preorder": "closed"
